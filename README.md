@@ -31,13 +31,13 @@ The NSL-KDD dataset is used for this project. It is a benchmark dataset widely u
    - Random Forest
    - Support Vector Machines (SVM)
 3. **Dimensionality Reduction**: Principal Component Analysis (PCA) was employed to reduce the dimensionality of the dataset.
-4. **Model Evaluation**: Models were evaluated using metrics like accuracy, precision, recall, and F1-score.
+4. **Model Evaluation**: Models were evaluated using metrics like accuracy, precision and recall.
 
 ## Results
 The Random Forest Classifier showed the highest accuracy and proved to be effective in identifying different attack types. Other models also provided insights, with each model's strengths and weaknesses analyzed in detail.
 
 ## Conclusion
-The project demonstrates the capability of AI/ML techniques to improve network intrusion detection. Future work could involve exploring deep learning models and unsupervised learning for better anomaly detection.
+The project demonstrates the capability of AI/ML techniques to improve network intrusion detection. Future work could involving the deployment of the model for real-time intrusion detection using Apache Kafka.
 
 ## Requirements
 To run the notebook, you need the following Python packages:
