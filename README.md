@@ -9,8 +9,6 @@ This project focuses on detecting network intrusions using machine learning mode
 4. [Results](#results)
 5. [Conclusion](#conclusion)
 6. [Requirements](#requirements)
-7. [How to Run](#how-to-run)
-8. [References](#references)
 
 ## Introduction
 In today's digital era, securing networks from malicious attacks is crucial. Traditional Network Intrusion Detection Systems (NIDS) often face challenges in keeping up with evolving threats. This project uses AI and Machine Learning to build a more adaptive and effective intrusion detection system. Various models are trained and evaluated on the NSL-KDD dataset to classify network traffic.
